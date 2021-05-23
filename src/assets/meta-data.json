@@ -1,0 +1,28 @@
+[{
+  "name":"Report Name",
+  "description":"Report Description",
+  "params":[{
+    "name":"param1",
+    "order":0,
+    "label":"Parameter 1",
+    "type":"text",
+    "required":true,
+    "defaultValue":""
+  },
+  {
+    "name":"param2",
+    "order":0,
+    "label":"Parameter 1",
+    "type":"mat-text",
+    "required":true,
+    "defaultValue":""
+  },
+  {
+    "name":"param3",
+    "order":0,
+    "label":"Parameter 1",
+    "type":"text",
+    "required":true,
+    "defaultValue":""
+  }]
+}]
